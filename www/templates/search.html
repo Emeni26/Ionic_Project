@@ -1,0 +1,14 @@
+<ion-view view-title="Liste des salles">
+<button class="button button-icon ion-navicon"></button>
+
+  <ion-content>
+
+    <div ng-app="mapsApp" ng-controller="MapCtrl">
+    <div id="map"></div>
+
+    <ui class="list" id="class" ng-repeat="marker in markers | orderBy : 'title'">
+         <a class="item" href="#" ng-click="openInfoWindow($event, marker)">{{marker.title}}</a>
+    </ui>
+
+  </ion-content>
+</ion-view>

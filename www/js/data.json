@@ -1,0 +1,172 @@
+{"calendar": [
+    {
+    "weekday": "Lundi",
+	   "title": "Ciné Jamil",
+      "schedule": [
+        {
+          "time": "9:30h-11:00h",
+          "nom": "aziz_rouhou",
+          "film": "Aziz rouhou,Narciste",
+          "room": "Cinéma Colisé"
+          }, {
+          "time": "11:00h-13:00h",
+          "nom": "film_hedi",
+          "film": "Nhebek hedi",
+          "room": "Cinéma Colisé"
+        },{
+          "time": "14:30-16:00h",
+			"nom": "film_hedi",
+          "film": "Nhebek hedi",
+          "room": "Cinéma Colisé"
+        }
+        ,{
+          "time": "17:00-19:00h",
+          "nom": "film_hedi",
+          "film": "Nhebek hedi",
+          "room": "Cinéma Colisé"
+        }
+       
+      ]
+
+    },    {
+    "weekday": "",
+   "title": "Cinévog",
+      "schedule": [
+        {
+          "time": "9:30h-11:00h",
+          "nom": "lilia",
+          "film": "Lilia,fille tunisienne",
+          "room": "Cinéma Colisé"
+          }, {
+          "time": "11:00h-13:00h",
+          "nom": "film_hedi",
+          "film": "Nhebek hedi",
+          "room": "Cinéma Colisé"
+        },{
+          "time": "14:30-16:00h",
+           "nom": "parfumdu_printemps",
+          "film": "Parfum du printemos",
+          "room": "Cinévog"
+        }
+        ,{
+          "time": "17:00-19:00h",
+          "nom": "film_hedi",
+          "film": "Nhebek hedi",
+          "room": "Cinéma Colisé"
+        }
+       
+      ]
+
+    },{
+    "weekday": "Mardi",
+     "title": "Le Palace",
+      "schedule": [
+        {
+          "time": "9:30h-11:00h",
+          "nom": "aziz_rouhou",
+          "film": "Aziz rouhou,Narciste",
+          "room": "Cinéma Colisé"
+          }, {
+          "time": "11:00h-13:00h",
+          "nom": "film_hedi",
+          "film": "Nhebek hedi",
+          "room": "Cinéma Colisé"
+        },{
+          "time": "14:30-16:00h",
+      "nom": "film_hedi",
+          "film": "Nhebek hedi",
+          "room": "Cinéma Colisé"
+        }
+        ,{
+          "time": "17:00-19:00h",
+          "nom": "film_hedi",
+          "film": "Nhebek hedi",
+          "room": "Cinéma Colisé"
+        }
+       
+      ]
+
+    }
+	 
+  ],
+  
+  "films": [
+    {
+      "synopsis": "Hind, jeune comédienne de 30 ans, incarne le premier rôle dans une pièce théâtrale mise en scène par son mari Taoufik. La pièce s’inspire du vécu tragique de Hind et de son frère cadet, Mehdi, un célèbre chanteur homosexuel. Tous les deux ont étés opprimés par leur frère aîné, jeune homme délinquant qui a versé dans l’intégrisme religieux.Alors que Mehdi est tiraillé entre son amour clandestin et la perspective de se marier, Hind décide d’affronter son présent et de révéler les secrets enfouis du passé. Elle réalise que pour pouvoir vivre, elle se doit de rompre le cercle vicieux qui la maintenait prisonnière du ressentiment et de la violence.",
+      "nom": "aziz_rouhou",
+      "title": "Aziz Rouhou,Narciste",
+      "realisateur": "Sonia CHAMKHI",
+      "datesortie":"14 Février 2016",
+      "acteurs" : "Aicha Ben Ahmed, Ghanem Zrelli, Fatma Ben Saidane, Jamel Madani ..",
+	    "trailer": "https://www.youtube.com/embed/70tIPH5fP3Q",
+      "duree" :"90 min"
+	  
+    },{
+      "synopsis": "Tunis, été 2010, quelques mois avant la Révolution, Farah 18 ans passe son bac et sa famille l’imagine déjà médecin… mais elle ne voit pas les choses de la même manière.Elle chante au sein d¹un groupe de rock engagé. Elle vibre, s’enivre, découvre l’amour et sa ville de nuit contre la volonté d’Hayet, sa mère, qui connaît la Tunisie et ses interdits.",
+      "nom": "a_peine",
+      "title": "A peine j'ouvre les yeux",
+      "realisateur": "Leila BOUZID",
+      "datesortie":"23 Décembre 2015",
+      "acteurs" : "Baya Medhaffar, Ghalia Benali, Montassar Ayari, Aymen Omrani,Deena Abdelwahed,Youssef Soltana,Marwen Soltana ..",
+	    "trailer": "https://www.youtube.com/embed/8O9gduLW5xA",
+      "duree": "102 min"
+    },{
+      "synopsis": "Hédi est un jeune homme sans histoires. Il parle peu, réagit rarement et n’attend rien de la vie. Indifférent à ce qui l’entoure, il laisse sa mère envahissante et autoritaire organiser son mariage avec Khédija. Bref, tout glisse sur lui.A Mahdia, à deux jours de son mariage, il fait la connaissance de Rim, une jeune animatrice dans un hôtel, une sorte de club de vacances qui se vide de ses touristes. Au départ intrigué par son insouciance et sa liberté, Hédi finit par se laisser porter par cette passion naissante…",
+      "nom": "film_hedi",
+      "title": "Nhebek Hédi",
+      "realisateur": "Mohamed BEN ATTIA",
+      "datesortie":"14 Février2016",
+      "acteurs" : "Aicha Ben Ahmed, Ghanem Zrelli, Fatma Ben Saidane, Jamel Madani ..",
+	    "trailer": "https://www.youtube.com/embed/F_gyNn3IB2o",
+      "duree":"90 min"
+
+    },{
+
+      "synopsis": "Hind, productrice et présentatrice vedette d’une émission populaire de télévision, s’éprend d’un Commissaire de police Lassâad, qui enquête sur le meurtre d’un entrepreneur dans le bâtiment. Ils découvrent ensemble un réseau de passeurs de jihadistes vers la Syrie et essayent, avec la complicité d’un juge d’instruction Iyadh, de le démanteler.",
+      "nom": "film_eclipse",
+      "title": "Éclipses – خسوف",
+      "realisateur": "Fathel JAZIRI",
+      "datesortie":"06 Avril 2016",
+      "acteurs" : "Mohamed Driss, Sara Hannachi, Raouf Ben Amor, Emna Jaziri, Mohamed Kouka, Rihab Hazgui, Chedly Arfaoui, Alae Yaakoubi (Weld El 15) ..",
+	    "trailer": "https://www.youtube.com/embed/LF60lXsMHyo",
+      "duree" :"102 min"
+    },{
+
+     "synopsis": "Aziz, surnommé « Zizou », jeune diplômé au chômage quitte son village du Sahara pour monter à la capitale, Tunis, en quête d’un métier. Il devient Installateur de paraboles sur les toits. Encore honnête et candide, il circule dans tous les milieux, des plus aisés aux plus démunis, des modernistes « branchés » aux partisans du régime despotique, ou aux opposants islamistes clandestins. Un jour, depuis les terrasses du beau village de Sidi Bou Saïd, il tombe fou amoureux d’une jeune fille.",
+      "nom": "parfumdu_printemps",
+      "title": "Parfum de Printemps ",
+      "realisateur": "Férid Boughedir ",
+      "datesortie":"06 Avril 2016",
+      "acteurs" : "Zyed Ayadi, Sara Hanachi, Fatma Ben Saïdane, Zyed Touati, Aïcha Ben Ahmed,Taoufik Bahri et Jamel Sassi ..",
+	    "trailer": "https://www.youtube.com/embed/WyRM088JmRw",
+      "duree": "99 min"
+
+     
+    },
+    {
+
+     "synopsis": "Les événements se déroulent pendant le mois de Janvier 2011. Il s’agit d’examiner la vie quotidienne d’un groupe de patients, une forme camouflée d’asile d’opposants au pouvoir, rendus aliénés.Cette société miniaturisée subit les pressions imposées à ses pensionnaires, par la tyrannie du pouvoir et les manœuvres sauvages dont le but est de moduler leurs natures tenues au rythme de l’humiliation, la dépression et la soumission aux règles du centre à l’image de la Tunisie à la vielle de la révolution. ",
+      "nom": "dicta_shot",
+      "title": "Dicta Shot-قصر الدهشة",
+      "realisateur": "Moktar Ladjimi ",
+      "datesortie":"09 Janvier 2016.",
+       "acteurs": "Fatma Ben Saidane,Hichem Rostom, Jamel Madani, Salima Chammari, Reem El Benna, Zied Touati",
+	     "trailer": "https://www.youtube.com/embed/Ohs6lQ28Vec",
+       "duree":"103 min"
+ 
+    },
+	{
+	
+
+     "synopsis": " «Lilia» raconte l’histoire d’une jeune femme très moderne qui vit dans sa propre bulle, bien dans son époque, sans tenir compte des risques qu’elle encourt et qui peuvent lui jouer de sales tours au moment où le pays a failli perdre les acquis de la femme au lendemain des élections du 23 octobre 2011, qui ont amené les islamistes au pouvoir.",
+      "nom": "lilia",
+      "title": "Lilia, une fille tunisienne ",
+      "realisateur": "Mohamed Zran" ,
+      "datesortie":"11 Avril 2016",
+	  "acteurs" : "Samar Matoussi,Hélène Catzaras, Najoua Miled, Nabil Mihoub et Sabri Jendoubi.",
+	  "trailer": "https://www.youtube.com/embed/1CY3CAhpK2U",
+    "duree":"105 min"
+	}
+	
+	
+  ]}

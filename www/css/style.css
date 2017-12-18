@@ -1,0 +1,91 @@
+/* Empty. Add your own CSS if you like */
+
+.star>.item-content{
+
+background-color: #EEE8D6 !important;
+
+}
+
+
+.splash {
+  background: url(../img/background.jpg) no-repeat center center fixed;
+
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+
+.branding {
+  width: 50%;
+  max-width: 300px;
+  margin: 0 auto;
+  margin-top: 20px;
+  text-align: center;
+}
+
+
+.slider {
+  height: 200px;
+  background-color: #eee;
+}
+
+.box {
+  padding: 0,5em;
+}
+
+#map {
+    height:350px;
+    width: 100%;
+}
+
+.scroll {
+    height: 100%;
+}
+
+.infoWindowContent {
+    font-size:  14px !important;
+    border-top: 1px solid #ccc;
+    padding-top: 10px;
+}
+h2 {
+    margin-bottom:0;
+    margin-top: 0;
+}
+
+.item-divider {
+  background-color: #EEE8D6;
+}
+
+.item h3 {
+  font-size: 0.9rem;
+  font-weight: bold;
+  color: #417D9A;
+}
+
+
+.dayhighlight {
+  background-color: #;
+  border-top: 20px solid #EF473A;
+}
+
+.dayhighlight h2 {
+  color: #417D9A;
+  font-size: 2rem;
+  font-weight: 200;
+}
+.dayhighlight h2 {
+  color: #FE2E2E;
+  font-size: 1.8rem;
+  font-weight: 200;
+}
+
+.item-thumbnail-left img {
+  border-radius: 10px;
+}
+
+.tagline {
+  font-size: 1.4rem;
+}

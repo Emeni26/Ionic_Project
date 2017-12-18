@@ -1,0 +1,51 @@
+<ion-header-bar class="bar-assertive" >
+  <h2 class="title" ng-repeat="item in films | filter: { nom: whichfilm }">{{item.title}}</h2>
+
+</ion-header-bar>
+
+<ion-view>
+<ion-content>
+
+<div class="list card">
+<ion-item class="item-text-wrap"
+    ng-repeat="item in films | filter: { nom: whichfilm }">
+<div class="item item-avatar">
+<img  ng-src="img/{{item.nom}}_tn.jpg"
+   alt="{{ item.name }} Photo" width="100%" height="300px">
+<h2>{{item.title}}</h2>
+ <p><b>{{item.realisateur}}</b></p>
+ <div class="text-right"> <b>Sortie: </b><h2> {{item.datesortie}}</h2></div>
+
+
+ 
+  </div>
+
+<div class="item item-body">
+    <img class="full-image"  ng-src="img/{{item.nom}}_tn.jpg"
+            alt="{{ item.name }} Photo" width="100%" height="300px">
+<h3><b>Durée :{{item.duree}}</h3>
+
+
+<p>{{item.synopsis}}</p>
+<h3><b> Acteurs :</b></h3> <p> {{item.acteurs}}</p>
+<!--<iframe ng-src="{{item.trailer}}" width="100%" height="315"></iframe>-->
+
+<div class="text-right"> 
+        
+          <a href="{{item.trailer}}" ng-click ='' class="button  button-assertive icon ion-ios-videocam"> Bande d'annonce </a>
+
+</div>
+
+
+ 
+</div>
+</ion-item>
+
+</div>
+  </ion-content>
+
+</ion-view>
+
+
+
+
